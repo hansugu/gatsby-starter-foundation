@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a industry-approved machine learning scientist, based in Seattle, working as an applied scientist at.
+He is an industry-approved machine learning scientist, based in Seattle, working as an applied scientist at.
