@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
+title: Hansu Gu
 tagline: Graphic Designer
-featuredImage: /assets/boulder.jpg
+featuredImage: /assets/paint.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
